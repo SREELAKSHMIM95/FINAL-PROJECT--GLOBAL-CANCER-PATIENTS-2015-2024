@@ -36,13 +36,23 @@ The primary objectives of this project are to:
 
 # RESULTS AND INSIGHTS
 
-1. Distribution of cancer cases by age & gender
+1. Trends Over Time: Cancer cases rose consistently from 2015–2024, showing growing incidence or better reporting.
 
-2. Regional disparities in cancer incidence
+2.Demographics: Majority of patients fall in the 45–70 age group, the most vulnerable population. Gender balance is overall equal, but breast cancer dominates females, while prostate cancer dominates males.
 
-3. Impact of lifestyle factors (smoking, obesity, pollution)
+3.Risk Factors:
+Smoking - lung cancer correlation is strong. 
+Obesity - colon and breast cancers.
+Air pollution - lung-related cancers, especially in industrial/urban areas.
+Alcohol consumption - liver and throat cancers.
 
-4. Trends in survival rates and treatment costs (2015–2024)
+4. Stage & Severity: Stage IV has the highest treatment cost and lowest survival rate. Late detection (Stage III–IV) is strongly linked to poor survival. Higher severity = higher costs = lower survival years.
+
+5. Economic Insights: Treatment costs nearly double between Stage II and Stage IV. Some countries spend more per patient without better survival outcomes, showing healthcare inequality.
+
+6. Geographical Patterns: Developed regions report more cases (due to diagnostics). Developing regions show late diagnoses, higher mortality, and lower survival years.
+
+7. Anomalies: Certain countries show high survival despite high severity, suggesting stronger healthcare systems. Some younger patients (<30) show high severity, possibly due to genetics.
 
 # CONCLUSION
 This analysis provides valuable insights into the global cancer burden and highlights how demographic, lifestyle, and environmental factors influence cancer outcomes. The findings can support awareness programs, policy making, and preventive healthcare strategies.
