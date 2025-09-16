@@ -24,13 +24,9 @@ The primary objectives of this project are to:
 
 # STEPS
 1. Data Loading & Overview: Import dataset using Pandas, Display rows, columns, datatypes, and summary statistics
-
 2. Data Preprocessing: Handle missing values, Remove duplicates, Correct data types, Create derived columns, Filter and aggregate data
-
-3. Exploratory Data Analysis (EDA): Univariate analysis (distributions of age, gender, cancer types), Bivariate analysis (treatment cost vs. survival years, gender vs. cancer type), Multivariate analysis (correlations among risk factors (smoking, obesity, pollution)).
-
+3. Exploratory Data Analysis (EDA): Univariate analysis (distributions of age, gender, cancer types), Bivariate analysis (treatment cost vs. survival years, gender vs. cancer type), Multivariate analysis   (correlations among risk factors (smoking, obesity, pollution)).
 4. Data Visualization: Bar plots, line charts, pie charts, histograms, distplot, scatter plots, box plots, heatmaps, count plot, violoin plot, pair plot, jointplot and subplots for comparison.
-
 5. Insight Generation & Report
 
 # RESULTS AND INSIGHTS
