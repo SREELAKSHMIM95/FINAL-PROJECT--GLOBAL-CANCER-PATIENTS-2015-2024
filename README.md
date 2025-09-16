@@ -1,4 +1,4 @@
-# FINAL-PROJECT--GLOBAL-CANCER-PATIENTS-2015-2024
+# FINAL-PROJECT-GLOBAL CANCER PATIENTS 2015-2024
 Project on Global Cancer Patients 2015-2024
 This project analyzes worldwide cancer data from 2015 to 2024 to identify key trends, patterns, and risk factors.
 Studying data from 2015 to 2024 allows us to track long term trends, identify high risk groups, and evaluate how factors such as smoking, obesity, and environmental pollution contribute to the disease. This project, “Global Cancer Patients 2014–2025”, uses Python for data analysis to explore patterns and trends in cancer cases worldwide.
